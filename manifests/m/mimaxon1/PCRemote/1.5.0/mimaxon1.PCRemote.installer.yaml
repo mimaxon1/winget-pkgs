@@ -16,7 +16,6 @@ Installers:
     AppsAndFeaturesEntries:
       - DisplayName: PC Remote 1.5.0
         Publisher: mimaxon1
-        DisplayVersion: '1.5.0'
         ProductCode: '{8A5675B9-1F20-4E2B-8BB4-D0C42973F9E4}_is1'
     InstallationMetadata:
       DefaultInstallLocation: '%LocalAppData%\Programs\PC Remote'
